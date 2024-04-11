@@ -1,2 +1,2 @@
 # Instagram
-http//:instargram.login.web
+http://instargram.login.web
